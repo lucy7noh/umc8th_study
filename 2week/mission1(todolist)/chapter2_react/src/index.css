@@ -1,0 +1,11 @@
+/* index.css */
+/* 페이지 전체에 영향을 주는 전역 스타일 */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #eef2f3;
+  margin: 0;
+}
